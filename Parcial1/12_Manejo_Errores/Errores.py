@@ -34,3 +34,7 @@ except TypeError:
     print("debes de combertir el numero a entreo")
 except ValueError:
     print("No es posible una letra a un numero, verific por favor")
+else:
+    print("No se genero ningun error")
+finally:
+    print("ya termino")
