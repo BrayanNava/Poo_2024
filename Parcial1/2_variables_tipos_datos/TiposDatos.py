@@ -20,7 +20,7 @@ logico=False
 cadena="hola"
 cadena2='@'
 lista=[10,20,30,40]
-lista2=[True,40,0.23,"letras",'W'
+lista2=[True,40,0.23,"letras",'W']
 tupla=("hola", "como","estas")
 diccionario={
     "nombre":"maria",

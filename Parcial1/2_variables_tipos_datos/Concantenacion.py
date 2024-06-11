@@ -20,7 +20,7 @@ print ("\n")
 
 
 #4ta forma
-print("Mi Nombre es ",{}," estoy en la especialidad de ",{}," en la carrera de ",{},) format(nombre,especialidad,caracter) 
+print("Mi Nombre es ",{}," estoy en la especialidad de ",{}," en la carrera de ",{},),format(nombre,especialidad,caracter) 
 print ("\n")
 
 #5ta forma
