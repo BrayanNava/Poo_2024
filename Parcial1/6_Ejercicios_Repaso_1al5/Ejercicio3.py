@@ -14,4 +14,3 @@ while numero <= 60:
     cuadrado = numero ** 2
     print(numero, "*", numero, "=", cuadrado)
     numero = numero + 1
-    

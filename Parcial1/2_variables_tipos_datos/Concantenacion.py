@@ -24,5 +24,5 @@ print("Mi Nombre es ",{}," estoy en la especialidad de ",{}," en la carrera de "
 print ("\n")
 
 #5ta forma
-print('Mi Nombre es '+nombre+' estoy en la especialidad de '+especialidad+' en la carrera de '+Carrera+) 
+print('Mi Nombre es '+nombre+' estoy en la especialidad de '+especialidad+' en la carrera de '+Carrera) 
 print ("\n")

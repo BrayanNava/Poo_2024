@@ -44,4 +44,3 @@ elif color=="verde":
     Print("Soy el color verde")
 else:
     Print("No soy ningun color")
-    
