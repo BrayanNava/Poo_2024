@@ -60,4 +60,3 @@ class Usuario:
                return []    
         except:    
             return [] 
-        
